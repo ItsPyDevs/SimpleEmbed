@@ -1,4 +1,4 @@
-# SimpleEmbed
+# SimpleWebhookEmbed
 
 **A utility for creating and sending Discord embeds through discord Webhook**
 
