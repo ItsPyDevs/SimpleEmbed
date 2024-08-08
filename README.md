@@ -10,11 +10,11 @@ Discord embeds are a powerful way to present content in a visually appealing for
 
 ## Features
 
-- **Create Embeds**: Start by creating a new embed with a title and description. Customize it further with additional fields and attributes to meet your specific needs.
-- **Add Fields**: Include one or more fields in your embed to present detailed information. Each field can be configured with a title, value, and optional inline setting.
-- **Customize Appearance**: Adjust the embed’s appearance by setting colors, adding thumbnails, and specifying footer and author details. Enhance the visual impact of your embed to better capture attention.
-- **Send to Webhook**: Seamlessly send the finalized embed to a Discord webhook URL. This allows you to deliver rich, formatted messages directly to your Discord channels.
-- **Help Command**: Use the built-in help command to get detailed information about the available methods and their usage. This ensures you can quickly understand and utilize the package’s capabilities.
+- **__Create Embeds__**: Start by creating a new embed with a title and description. Customize it further with additional fields and attributes to meet your specific needs.
+- **__Add Fields__**: Include one or more fields in your embed to present detailed information. Each field can be configured with a title, value, and optional inline setting.
+- **__Customize Appearance__**: Adjust the embed’s appearance by setting colors, adding thumbnails, and specifying footer and author details. Enhance the visual impact of your embed to better capture attention.
+- **__Send to Webhook__**: Seamlessly send the finalized embed to a Discord webhook URL. This allows you to deliver rich, formatted messages directly to your Discord channels.
+- **__Help Command__**: Use the built-in help command to get detailed information about the available methods and their usage. This ensures you can quickly understand and utilize the package’s capabilities.
 
 ## Installation
 
