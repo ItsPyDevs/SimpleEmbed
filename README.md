@@ -21,7 +21,9 @@ Discord embeds are a powerful way to present content in a visually appealing for
 To install `SimpleWebhookEmbed`, use `pip`, which is the Python package installer. Open your terminal or command prompt and run the following command:
 
 ```bash
-pip install SimpleWebhookEmbed
+git clone https://github.com/ItsPyDevs/SimpleWebhookEmbed/
+cd SimpleWebhookEmbed
+pip install .
 ```
 This will download and install the package and its dependencies.
 
