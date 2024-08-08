@@ -4,9 +4,9 @@
 
 ## Overview
 
-`SimpleEmbed` is a versatile Python package designed for creating and sending rich embeds to Discord. Whether you're building a bot or a custom integration, this package simplifies the process of crafting beautiful and informative messages that can be sent via Discord webhooks. 
+`SimpleWebhookEmbed` is a versatile Python package designed for creating and sending rich embeds to Discord. Whether you're building a bot or a custom integration, this package simplifies the process of crafting beautiful and informative messages that can be sent via Discord webhooks. 
 
-Discord embeds are a powerful way to present content in a visually appealing format, allowing for enhanced interaction and presentation in your Discord channels. With `SimpleEmbed`, you can easily generate and customize embeds with various features and attributes to fit your needs.
+Discord embeds are a powerful way to present content in a visually appealing format, allowing for enhanced interaction and presentation in your Discord channels. With `SimpleWebhookEmbed`, you can easily generate and customize embeds with various features and attributes to fit your needs.
 
 ## Features
 
@@ -18,10 +18,10 @@ Discord embeds are a powerful way to present content in a visually appealing for
 
 ## Installation
 
-To install `SimpleEmbed`, use `pip`, which is the Python package installer. Open your terminal or command prompt and run the following command:
+To install `SimpleWebhookEmbed`, use `pip`, which is the Python package installer. Open your terminal or command prompt and run the following command:
 
 ```bash
-pip install SimpleEmbed
+pip install SimpleWebhookEmbed
 ```
 This will download and install the package and its dependencies.
 
@@ -31,7 +31,7 @@ Once installed, you can start using SimpleEmbed to create and send Discord embed
 ## Import the Package:
 
 ```python
-from SimpleEmbed import SimpleEmbed
+from SimpleWebhookEmbed import SimpleEmbed
 ```
 
 ## Create an embed:
